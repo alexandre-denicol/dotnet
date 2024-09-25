@@ -1,0 +1,15 @@
+/home/alexandre/C#/Lista24_09_24/bin/Debug/net8.0/Lista24_09_24
+/home/alexandre/C#/Lista24_09_24/bin/Debug/net8.0/Lista24_09_24.deps.json
+/home/alexandre/C#/Lista24_09_24/bin/Debug/net8.0/Lista24_09_24.runtimeconfig.json
+/home/alexandre/C#/Lista24_09_24/bin/Debug/net8.0/Lista24_09_24.dll
+/home/alexandre/C#/Lista24_09_24/bin/Debug/net8.0/Lista24_09_24.pdb
+/home/alexandre/C#/Lista24_09_24/obj/Debug/net8.0/Lista24_09_24.GeneratedMSBuildEditorConfig.editorconfig
+/home/alexandre/C#/Lista24_09_24/obj/Debug/net8.0/Lista24_09_24.AssemblyInfoInputs.cache
+/home/alexandre/C#/Lista24_09_24/obj/Debug/net8.0/Lista24_09_24.AssemblyInfo.cs
+/home/alexandre/C#/Lista24_09_24/obj/Debug/net8.0/Lista24_09_24.csproj.CoreCompileInputs.cache
+/home/alexandre/C#/Lista24_09_24/obj/Debug/net8.0/Lista24_09_24.sourcelink.json
+/home/alexandre/C#/Lista24_09_24/obj/Debug/net8.0/Lista24_09_24.dll
+/home/alexandre/C#/Lista24_09_24/obj/Debug/net8.0/refint/Lista24_09_24.dll
+/home/alexandre/C#/Lista24_09_24/obj/Debug/net8.0/Lista24_09_24.pdb
+/home/alexandre/C#/Lista24_09_24/obj/Debug/net8.0/Lista24_09_24.genruntimeconfig.cache
+/home/alexandre/C#/Lista24_09_24/obj/Debug/net8.0/ref/Lista24_09_24.dll
