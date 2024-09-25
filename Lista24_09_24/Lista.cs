@@ -10,11 +10,7 @@ else{
     Console.WriteLine("Nota insuficiente para aprovação");
 }
 
-List<string> languanges = new List<string>();
-
-languanges.Add("C#");
-languanges.Add("Java");
-languanges.Add("JS");
+List<string> languanges = new List<string> {"C#","Java","JS"};
 
 Console.WriteLine(languanges[0]);
 
